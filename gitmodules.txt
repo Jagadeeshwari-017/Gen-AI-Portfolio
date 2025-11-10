@@ -1,0 +1,9 @@
+[submodule "image-annotation-dataset/image-annotation-dataset"]
+	path = image-annotation-dataset/image-annotation-dataset
+	url = https://github.com/Abhilesh-Vaka/image-annotation-dataset.git
+[submodule "text-classification-project/text-classification-project"]
+	path = text-classification-project/text-classification-project
+	url = https://github.com/Abhilesh-Vaka/text-classification-project.git
+[submodule "rlhf-response-ranking/rlhf-response-ranking"]
+	path = rlhf-response-ranking/rlhf-response-ranking
+	url = https://github.com/Abhilesh-Vaka/rlhf-response-ranking.git
